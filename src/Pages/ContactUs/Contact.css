@@ -1,0 +1,57 @@
+.contact__box {
+    display: flex;
+    justify-content: center;
+    padding: 27px 0px 37px;
+}
+
+.contact__location {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    padding: 15px 17px;
+    margin-right: 60px;
+    margin-bottom: 44px;
+}
+
+.contact__location-title {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1C1C27;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.contact__location-map {
+    border-radius: 10px;
+}
+
+.contact__phone {
+    display: flex;
+    align-items: center;
+}
+
+.contact__phone-number {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000;
+    margin: 0;
+    margin-left: 28px;
+}
+
+.contact__admin-link {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact__link-target {
+    display: inline-block;
+    padding: 30px;
+    background-color: white;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    margin-bottom: 14px;
+}

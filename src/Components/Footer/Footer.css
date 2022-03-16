@@ -1,0 +1,46 @@
+.footer__card {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px 30px 0px 0px;
+    display: flex;
+    padding: 30px 30px 33px;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer__nav-list {
+    margin: 0;
+}
+
+.footer__nav-list {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.footer__nav-lists {
+    margin-bottom: 10px;
+}
+
+.footer__language-list {
+    margin: 0;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.footer__links {
+    list-style: none;
+    display: flex;
+    margin: 10px;
+}
+
+.footer__link + .footer__link {
+    margin-left: 18px;
+}
+
+.footer__nav-item:hover {
+    color: rgb(0, 0, 0);
+}

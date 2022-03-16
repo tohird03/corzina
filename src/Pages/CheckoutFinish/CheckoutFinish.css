@@ -1,0 +1,18 @@
+.checkout__finesh {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    width: 730px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.checkout__finesh-heading {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    margin: 0;
+    text-align: center;
+    color: #1C1C27;
+    padding: 33px 0 40px;
+}

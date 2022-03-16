@@ -1,0 +1,25 @@
+table {
+    background-color: white;
+}
+
+.admin__table-body {
+    color: black;
+    text-align: center;
+    color: antiquewhite;
+    border: 2px solid white;
+    text-transform: uppercase;
+}
+
+.accordion {
+    margin: 80px 0px;
+}
+
+.admin__table-user {
+    text-align: center;
+}
+
+.heading {
+    margin: 0;
+    padding: 100px;
+    text-align: center;
+}
