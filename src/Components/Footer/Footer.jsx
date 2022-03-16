@@ -50,22 +50,22 @@ const Footer = () => {
 
                     <ul className='footer__links'>
                         <li className='footer__link'>
-                            <a href="https://vk.com/" target="_blank">
+                            <a href="https://vk.com/">
                                 <img src={vkImg} alt="vk img" />
                             </a>
                         </li>
                         <li className='footer__link'>
-                            <a href="https://www.instagram.com/tohirdoniyorov2003/" target="_blank">
+                            <a href="https://www.instagram.com/tohirdoniyorov2003/">
                                 <img src={instagramImg} alt="vk img" />
                             </a>
                         </li>
                         <li className='footer__link'>
-                            <a href="https://telegram.me/savM_571_632" target="_blank">
+                            <a href="https://telegram.me/savM_571_632">
                                 <img src={telegramImg} alt="telegram img" />
                             </a>
                         </li>
                         <li className='footer__link'>
-                            <a href="https://www.whatsapp.com/?lang=ru" target="_blank">
+                            <a href="https://www.whatsapp.com/?lang=ru">
                                 <img src={whaatsappImg} alt="vk img" />
                             </a>
                         </li>

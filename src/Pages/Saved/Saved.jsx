@@ -8,7 +8,6 @@ import Emptybasketlike from '../EmptyBasket/EmptyBasketLike';
 const Saved = () => {
 
     const { savedArr, setSavedArr } = useContext(Context)
-    console.log(savedArr);
 
     const handleDeleteSave = (id) => {
         setSavedArr(state => state.filter(element => element.id !== id))

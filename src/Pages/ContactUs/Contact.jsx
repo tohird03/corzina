@@ -39,22 +39,22 @@ const Contact = () => {
 
                             <ul className="contact__admin-link">
                                 <li className='contact__link'>
-                                    <a className='contact__link-target' href="https://www.whatsapp.com/?lang=ru" target="_blank">
+                                    <a className='contact__link-target' href="https://www.whatsapp.com/?lang=ru">
                                         <img src={whaatsappImg} alt="vk img" />
                                     </a>
                                 </li>
                                 <li className='contact__link'>
-                                    <a className='contact__link-target' href="https://vk.com/" target="_blank">
+                                    <a className='contact__link-target' href="https://vk.com/">
                                         <img src={vkImg} alt="vk img" />
                                     </a>
                                 </li>
                                 <li className='contact__link'>
-                                    <a className='contact__link-target' href="https://www.instagram.com/tohirdoniyorov2003/" target="_blank">
+                                    <a className='contact__link-target' href="https://www.instagram.com/tohirdoniyorov2003/">
                                         <img src={instagramImg} alt="vk img" />
                                     </a>
                                 </li>
                                 <li className='contact__link'>
-                                    <a className='contact__link-target' href="https://telegram.me/savM_571_632" target="_blank">
+                                    <a className='contact__link-target' href="https://telegram.me/savM_571_632">
                                         <img src={telegramImg} alt="telegram img" />
                                     </a>
                                 </li>
