@@ -10,21 +10,17 @@ const Login = () => {
     const { adminParol, setAdminParol } = useContext(Context)
     const { token, setToken } = useContext(Context)
     const handleSubmit = (e) => {
-
         e.preventDefault()
 
         if (adminLogin == 11112222 && adminParol == "aaaabbbb") {
             setToken("1111")
-            
+
         } else {
             setToken(undefined)
             alert(" Login or Parol is not defained")
         }
-        window.localStorage.setItem(JSON.stringify('token1'), token)
     }
 
-
-    window.localStorage.setItem(JSON.stringify('token1'), token)
 
     return (
         <section>

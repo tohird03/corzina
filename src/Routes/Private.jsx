@@ -7,7 +7,6 @@ import Adminpanel from "../Pages/AdminPanel/AdminPanel";
 
 const Private = () => {
     const { token, setToken } = useContext(Context)
- 
     if(token){
         return <Adminpanel/>
     }else{

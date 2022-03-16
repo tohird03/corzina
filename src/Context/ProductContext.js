@@ -27,7 +27,7 @@ function Provider({children}){
 
     const localUserToken = JSON.parse(window.localStorage.getItem('token'))
 
-    let [token, setToken] = useState(localUserToken || "")
+    let [token, setToken] = useState("")
 
     window.localStorage.setItem(JSON.stringify('token'), token)
     useEffect(() =>{
