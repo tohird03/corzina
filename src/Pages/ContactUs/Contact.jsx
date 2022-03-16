@@ -16,7 +16,7 @@ const Contact = () => {
                                 <div className="contact__location">
                                     <h4 className='contact__location-title'>Наш офис</h4>
 
-                                    {/* <iframe className='contact__location-map'
+                                    <iframe className='contact__location-map'
                                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2995.626762389675!2d69.26962081519574!3d41.338728779268585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b5bc3472597%3A0xb7a352920b7c168a!2z0KLQvtGA0LPQvtCy0YvQtSDQoNGP0LTRiyAi0JzQsNC70LjQutCwIg!5e0!3m2!1sru!2s!4v1647167212785!5m2!1sru!2s"
                                         width="722"
                                         height="424"
@@ -25,7 +25,7 @@ const Contact = () => {
                                         allowFullScreen=""
                                         aria-hidden="false"
                                         tabIndex="0"
-                                    /> */}
+                                    />
 
                                 </div>
 
